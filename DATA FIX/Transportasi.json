@@ -1,39 +1,27 @@
 {"Transportasi":[
   {
     "Nama Transportasi": "Pelabuhan Bitung",
-    "Jenis Transportasi": "Pelabuhan",
-    "Alamat": "Jln. D. S. Sumolang No.1, Bitung",
-    "Telepon": "(+62-438) 21196, 21310"
+    "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTransportasi/PelabuhanBitung.jpg"
   },
   {
     "Nama Transportasi": "Pelabuhan Manado",
-    "Jenis Transportasi": "Pelabuhan",
-    "Alamat": "Wenang Utara (Jl. Rumambi), Manado, Sulawesi Utara 95121, Indonesia",
-    "Telepon": 62431863915
+    "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTransportasi/PelabuhanManado.jpg"
   },
   {
     "Nama Transportasi": "Bandar Udara Sam Ratulangi",
-    "Jenis Transportasi": "Bandara",
-    "Alamat": "Jl. A.A. Maramis, Lapangan, Kec. Mapanget, Kota Manado, Sulawesi Utara 95374",
-    "Telepon": "(0431) 814320"
+    "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTransportasi/BandaraSamRatulangi.jpg"
   },
   {
     "Nama Transportasi": "Terminal Tomohon",
-    "Jenis Transportasi": "Terminal",
-    "Alamat": "Jl. Terminal Beriman Tomohon, Paslaten Satu, Tomohon Tim., Kota Tomohon, Sulawesi Utara",
-    "Telepon": "0852-0100-0071"
+    "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTransportasi/TerminalTomohon.jpg"
   },
   {
-    "Nama Transportasi": "Terminal Manado",
-    "Jenis Transportasi": "Terminal",
-    "Alamat": "Jl. Maruasey, Malalayang Satu Barat, Kec. Malalayang, Kota Manado, Sulawesi Utara",
-    "Telepon": ""
+    "Nama Transportasi": "Terminal Malalayang",
+    "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTransportasi/TerminalMalalayang.jpg"
   },
   {
     "Nama Transportasi": "Terminal Bitung",
-    "Jenis Transportasi": "Terminal",
-    "Alamat": "Manembo-nembo Tengah, Matuari, Kota Bitung, Sulawesi Utara",
-    "Telepon": 85255757215
+    "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTransportasi/TerminalBitung.jpg"
   }
 ]
 }
