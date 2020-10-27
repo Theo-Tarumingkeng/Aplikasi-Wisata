@@ -6,6 +6,7 @@
     "Alamat": "Jl. Manado - Bitung, Watutumou II, Kec. Kalawat, Kabupaten Minahasa Utara, Sulawesi Utara",
     "Telepon": "(0431) 818888",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/HotelSutanraja.jpg"
+    "Jarak dari Bandara": "11 km"
   },
   {
     "ID": "2",
@@ -14,6 +15,7 @@
     "Alamat": "Jalan Wolter Monginsidi No.1,Kompleks Bahu Mall Blok A3, Malalayang, Manado, Sulawesi Utara, Indonesia, 95115",
     "Telepon": "(0431) 7282888",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/HotelBestWesternTheLagoon.jpg"
+    "Jarak dari Terminal" : "4.5 km" 
   },
   {
     "ID": "3",
@@ -22,6 +24,7 @@
     "Alamat": "Kawasan Pariwisata Pantai Paradise Desa Maen - Likupang, Minahasa Utara, Indonesia, 95375",
     "Telepon": "(0431) 8941808",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/CasabaioParadiseResort.jpg"
+    "Jarak dari Bandara" : "36 km" 
   },
   {
     "ID" : "4",
@@ -30,6 +33,7 @@
     "Alamat": "Pulau Bangka, Desa Lihunu Kec. Likupang Timur, 95375 - Likupang, Provinsi Sulawesi Utara",
     "Telepon": "0821-9561-1232",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/CoralEyeLikupang.jpg"
+    
   },
   {
     "ID" : "5",
@@ -46,6 +50,7 @@
     "Alamat": "Jl. Jenderal Sudirman Kav 85-87 Manado Sulawesi Utara, Wenang, Manado,   Indonesia,\n 95122",
     "Telepon": "(0431) 861000",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/SwissBelhotelMaleosanManado.jpg"
+    "Jarak dari Bandara" : "12.7 km"
   },
   {
     "ID" : "7",
@@ -54,6 +59,7 @@
     "Alamat": "Jl. Raya Tanawangko, Tateli, Mandolang, Kabupaten Minahasa, Sulawesi Utara 95121",
     "Telepon": "(0431) 825888",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/MercureManadoTateliBeachResort.jpg"
+    "Jarak dari Terminal" : "5.6 km" 
   },
   {
     "ID" : "8",
@@ -62,6 +68,7 @@
     "Alamat": "Jl. Kimereng Kali, RW.Lingk VI, Kinilow, Tomohon Utara, Kota Tomohon, Sulawesi  Utara 95414",
     "Telepon": "(0431) 353333",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/HighlandResortandNatureTours.jpg"
+    "Jarak dari Terminal" : "7.1 km" 
   },
   {
     "ID" : "9",
@@ -70,6 +77,7 @@
     "Alamat": "Jalan Lingkar Timur Kakaskasen Satu, Tomohon, Manado, Indonesia, 95415",
     "Telepon": "(0431) 3155223",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/Hotel%20Villa%20Emitta%20Tomohon.webp"
+    "Jarak dari Terminal" : "2.8 km"
   },
   {
     "ID" : "10",
@@ -78,6 +86,7 @@
     "Alamat": "Jl. Jend Sudirman, Gunung Wenang, Pinaesaan, Kec. Wenang, Kota Manado, Sulawesi Utara 95123",
     "Telepon": "(0431) 855008",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/SintesaPeninsulaHotelManado.jpg"
+    "Jarak dari Bandara" : "13.2 km"
   },
   {
     "ID" : "11",
@@ -102,6 +111,7 @@
     "Alamat": "Pintukota, Pulau Lembeh, Kota Bitung, Sulawesi Utara 95515",
     "Telepon": "0811-435-411",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/WhiteSandsBeachResortLembeh.jpg"
+     
   },
   {
     "ID" : "14",
@@ -110,6 +120,7 @@
     "Alamat": "Jl. Piere Tendean, Boulevard, Kec. Sario, Sulawesi Utara 95111",
     "Telepon": "(0431) 8803999",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/FourPointbySheratonManado.jpg"
+    "Jarak dari Terminal" : "5.5 km"
   },
   {
     "ID" : "15",
@@ -118,6 +129,7 @@
     "Alamat": "Kelurahan Pondang, Kecamatan Amurang Timur, Amurang Timur, Minahasa Selatan, Sulawesi Utara, Indonesia, 95354",
     "Telepon": "0821-8923-8544",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/SutanrajaHotelAmurang.jpg"
+    "Jarak dari Terminal" : "45.8 km" 
   },
   {
     "ID" : "16",
@@ -126,6 +138,7 @@
     "Alamat": "Jl. Lingkar. Barat., Kakaskasen Satu, Kec. Tomohon Utara, Kota Tomohon, Sulawesi Utara 95415",
     "Telepon": "(0431) 3101011",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/GrandMasterResortTomohon.jpg"
+    "Jarak dari Terminal" : "5 km"
   },
   {
     "ID" : "17",
@@ -134,6 +147,7 @@
     "Alamat": "Pulau Gangga, Gangga Satu, Likupang Barat, Provinsi Minahasa Utara, Sulawesi Utara 95375",
     "Telepon": "(0431) 8894009",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/GanggaIslandResortandSpa.jpg"
+    
   },
   {
     "ID" : "18",
@@ -142,6 +156,7 @@
     "Alamat": "A.A Maramis Kayuwatu, Kairagi Dua, Kota Manado, Sulawesi Utara 95254",
     "Telepon": "(0431) 818889",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/NovotelManadoGolfResortandConventionCenter.jpg"
+    "Jarak dari Bandara" : "6.2 km"
   },
   {
     "ID" : "19",
@@ -158,6 +173,7 @@
     "Alamat": "Jl. Lingkar Timur Kakaskasen Tiga, Kec. Tomohon Utara, Kota Tomohon, Sulawesi Utara 95417",
     "Telepon": "(0431) 354439",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/JhoanieHotelTomohon.jpg"
+    "Jarak dari Terminal" : "3.2 km" 
   }
 ]
 }
