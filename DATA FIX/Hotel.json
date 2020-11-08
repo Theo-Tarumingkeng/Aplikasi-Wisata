@@ -33,6 +33,7 @@
     "Alamat": "Pulau Bangka, Desa Lihunu Kec. Likupang Timur, 95375 - Likupang, Provinsi Sulawesi Utara",
     "Telepon": "0821-9561-1232",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/CoralEyeLikupang.jpg"
+    "Jarak dari Pelabuhan" : "30 Menit"
     
   },
   {
@@ -42,6 +43,7 @@
     "Alamat": "Pulau Siladen, Taman Nasional Bunaken, Pulau Bunaken, Manado, Indonesia, 95551",
     "Telepon": "0821-8956-5642",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/OnongResort.jpg"
+    "Jarak dari Pelabuhan" : "15.2 km"
   },
   {
     "ID" : "6",
@@ -95,6 +97,7 @@
     "Alamat": "Kelurahan Bunaken, Lingkungan IV RT 00/RW 004, Kecamatan Bunaken Kepulauan, Bunaken, Manado, Sulawesi Utara, Indonesia, 95231",
     "Telepon": 821246000000,
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/BunakenOasisDiveResortandSpa.jpg"
+    "Jarak dari Bandara" : "19.5 km"
   },
   {
     "ID" : "12",
@@ -103,6 +106,7 @@
     "Alamat": "Jl. Yusuf Hasiru No.7, Kotamobagu, Kotamobagu Bar., Kota Kotamobagu, Sulawesi Utara 95716",
     "Telepon": "(0434) 21333",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/SenatorResortHotel.jpg"
+    
   },
   {
     "ID" : "13",
@@ -111,7 +115,7 @@
     "Alamat": "Pintukota, Pulau Lembeh, Kota Bitung, Sulawesi Utara 95515",
     "Telepon": "0811-435-411",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/WhiteSandsBeachResortLembeh.jpg"
-     
+    "Jarak dari Pelabuhan" : "30 menit" 
   },
   {
     "ID" : "14",
@@ -147,7 +151,7 @@
     "Alamat": "Pulau Gangga, Gangga Satu, Likupang Barat, Provinsi Minahasa Utara, Sulawesi Utara 95375",
     "Telepon": "(0431) 8894009",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/GanggaIslandResortandSpa.jpg"
-    
+    "Jarak dari Bandara" : "28.1 km"
   },
   {
     "ID" : "18",
@@ -165,6 +169,7 @@
     "Alamat": "Lingkungan 7, Manado, Pulau Siladen 95361 Indonesia",
     "Telepon": "0821-8956-5642",
     "Gambar Url": "https://aplikasiwisata3siscer.000webhostapp.com/GambarHotel/KudaLautBoutiqueDiveResort.jpg"
+    "Jarak dari Bandara" : "16.1 km"
   },
   {
     "ID" : "20",
