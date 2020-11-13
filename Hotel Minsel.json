@@ -1,5 +1,6 @@
-[
+{"Hotel":[
   {
+    "ID": "1",
     "Nama Hotel": "Mercure Manado Tateli Beach Resort",
     "Ulasan": "Terletak di Sulawesi Utara dan menghadap ke Samudra Pasifik dan Taman Nasional Bunaken, Mercure Manado Tateli Beach Resort dengan 142 kamar adalah resor bintang 4 yang menawarkan restoran modern, bar, ruang pertemuan, kolam renang besar, pusat kebugaran, sauna, lapangan tenis, pusat selam, dan fasilitas spa untuk dinikmati Anda dan keluarga. \\n\\nKamar kasual dilengkapi dengan Wi-Fi, TV layar datar, dan balkon, serta minibar dan alat pembuat kopi. Kamar di kelas yang lebih tinggi dilengkapi area duduk. Suite menyediakan ruang keluarga terpisah; beberapa dengan wet bar atau kamar tidur di loteng. Room service tersedia 24/7.\\n\\nFasilitas meliputi restoran bernuansa santai, bar, dan gym, plus kolam renang outdoor bergaya laguna. Terdapat juga pusat menyelam dan sauna. Tersedia tempat parkir, sarapan, perawatan pijat, dan perjalanan dengan perahu, serta ruang pertemuan/acara yang berkapasitas hingga 1.500 orang.\\n\\nMenghadap Taman Nasional Bunaken, Mercure Manado Tateli Beach Resort terletak di lingkungan rimbun dan eksotis. Bagaikan rumah bagi penggemar selam, delegasi pertemuan, dan wisatawan.",
     "Alamat": "Jl. Raya Tanawangko, Tateli, Mandolang, Kabupaten Minahasa, Sulawesi Utara 95121",
@@ -8,6 +9,7 @@
     "Jarak Transportasi": "5.6 km"
   },
   {
+    "ID": "2",
     "Nama Hotel": "Sutanraja Hotel Amurang",
     "Ulasan": "Hotel berkelas internasional pertama di Amurang, Minahasa Selatan - Sulawesi Utara. Fasilitas hiburan pendukung seperti Pusat Kebugaran, Spa & Sauna, Kolam Renang Keluarga, Ruang Rapat, serta satu-satunya Convention Hall di Amurang. Hotel ini juga dekat dengan tempat wisata yang akan membuat Anda semakin benar-benar nyaman.",
     "Alamat": "Kelurahan Pondang, Kecamatan Amurang Timur, Amurang Timur, Minahasa Selatan, Sulawesi Utara, Indonesia, 95354",
@@ -16,3 +18,4 @@
     "Jarak Transportasi": "5.5 km"
   }
 ]
+}
