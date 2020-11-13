@@ -1,62 +1,73 @@
-[
+{"TempatWisata":[
   {
+    "ID": "1", 
     "Nama Tempat Wisata": "1. Pulau Manterawu",
     "Alamat": "Mantehage, Kec. Wori, Kab. Minahasa Utara.",
     "Ulasan": "Pulau Manterawu merupakan salah satu pulau milik Indonesia yang berbatasan dengan Filiphina. Saat ini Pulau Manterawu juga dikenal sebagai Pula Mantehage. Anda akan mendapatkan pemandangan memukau begitu mengunjungi pulau satu ini.\n\nHutan bakau yang luas bisa anda jelajahi. Selepas mengunjungi pulau ini, anda bisa melanjutkan perjalanan untuk mengunjungi Pulau Bunaken yang membutuhkan waktu sekitar 1,5 jam.",
     "Jarak Transportasi": "21.5 km"
   },
   {
+    "ID": "2",
     "Nama Tempat Wisata": "2. Waruga Sawangan",
     "Alamat": "Sawangan, Kec. Airmadidi, Kab. Minahasa Utara.",
     "Ulasan": "Situs ini merupakan sebuah kuburan kuno yang sudah ada sejak zaman megalitikum masyarakat Minahasa. Kuburan kuno ini pertama kali di temukan di kawasan Bukit Klewer. Yang kini keberadaannya juga merubah menjadi wisata sejarah.\n\nJumlah kuburan tua ini terdapat 144 buah dengan relief yang juga melengkapi sisi kanan dan kiri dari kompleks makan. Meskipun memiliki jumlah hingga ratusan namun hanya 31 makam yang bisa diindentifikasi. Selain melihat jejeran makam kuno, pengunjung juga bisa mengunjungi meseum mini yang berada di kawasan Waruga Sawangan. Untuk menuju tempat wisata sejarah ini pengunjung bisa menggunakan kendaraan pribadi agar lebih mudah.",
     "Jarak Transportasi": "21.9 km"
   },
   {
+    "ID": "3",
     "Nama Tempat Wisata": "3. Raewaya Hills AirmadidiAirmadidi Atas, Kec. Airmadidi, Kab. Minahasa Utara.",
     "Alamat": "",
     "Ulasan": "Tempat satu ini akan menyajikan pemandangan dari ketinggian yang tidak boleh anda lewatkan. Objek wisata ini bahkan kini menjadi destinasi wisata yang hits dan banyak dikunjungi. Minahasa memang memiliki udara sejuk yang akan membuat anda betah menikmati pemandangan yang ada. Terutama ketika matahari tenggelam, maka anda akan mendapatkan lanscape cantik yang tidak akan bisa anda lupakan begitu.\n\nBukan hanya pemandangan yang mempesona, anda juga bisa menjajal beberapa wahana yang menantang. Wahana yang masih menjadi primadona adalah sky bike serta wahana lain seperti extreme swing dan flying fox bisa anda jajal. Pengunjung juga bisa menikmati berbagai jajanan dan minuman di cafe yang ada di Raewaya Hills ini. Jangan lupakan untuk mengambil banyak foto mengingat lokasinya begitu instragramable untuk jadi spot swafoto.",
     "Jarak Transportasi": "29.8 km"
   },
   {
+    "ID": "4",
     "Nama Tempat Wisata": "4. Pantai Paal",
     "Alamat": "Marinsow, Kec. Likupang Timur, Kab. Minahasa Utara.",
     "Ulasan": "Pantai Paal juga bisa dikatakan sebagai pantai dengan fasilitas yang begitu lengkap. Anda bisa menemui fasilitas umum seperti toilet, ruang ganti hingga tempat ibadah. Fasilitas lain yang juga akan mendukung kenyamanan anda seperti gazebo dan pedang kuliner bisa anda temui. Pastinya akan sangat menyenangkan bisa bersantai di pinggir pantai sambil menikmati kudapan lezat. Saat hari libur pantai ini selalu padat dengan pengunjung.",
     "Jarak Transportasi": "33.6 km"
   },
   {
+    "ID": "5",
     "Nama Tempat Wisata": "5. Pantai Likupang",
     "Alamat": "Likupang II, Kec. Likupang Timur, Kab. Minahasa Utara.",
     "Ulasan": "Pantai Likupang ini menjadi pantai yang populer di Minahasa Utara terkait dengan keindahannya. Selain itu di pantai ini juga terdapat penyu hijau yang seperti kita ketahui keberadaannya saat ini begitu langka.\n\nPantai Likupang semakin istimewa dengan hadirnya pasir pantai putih yang abisa anda temui. Beragam aktivitas seperti snorkeling juga bisa dilakukan di Pantai Likupang ini. Bawah laut yang dimiliki pantai ini memang masih terjaga.",
     "Jarak Transportasi": "33.5 km"
   },
   {
+    "ID": "6",
     "Nama Tempat Wisata": "6. Pulau Bangka",
     "Alamat": "Pulau Bangka, Likupang, Kec. Likupang Timur, Kab. Minahasa Utara.",
     "Ulasan": "Dahulunya Pulau Bangka ini merupakan kawasan yang digunakan untuk aktivitas pertambangan. Kini wajahnya semakin menawan dan sangat cantik sehingga menjadi destinasi wisata. Pulau Bangka sendiri merupakan pulau kecil yang berada di bagian timur dari Pulau Sulawesi. Bagi anda yang menyukai penduduk bawah laut, anda harus mengunjungi tempat wisata di Minut ini. Karena bawah lautnya masih terjaga dan begitu cantik.\n\nTerumbu karang yang berderet dengan ikan warna warni tentunya akan menjadi pemandnagan yang tidak boleh anda lewatkan. Dengan adanya terumbu karang yang masih terjaga ini, tidak heran jika Pulau Bangka selalu diserbu oleh para penyelam. Anda yang mencoba aktivitas snorkeling maupun diving tidak akan pernah kecewa dengan keindahannya. Terdapat 25 spot diving lengkap dengan topografi yang begitu unik di bawah laut sana.",
     "Jarak Transportasi": "27 km"
   },
   {
+    "ID": "7",
     "Nama Tempat Wisata": "7. Air Terjun Tunan",
     "Alamat": "Wasian, Kec. Dimembe, Kab. Minahasa Utara.",
     "Ulasan": "Air terjun satu ini bahkan menjadi primadona di kalangan wisatawan. Hal ini dikarenakan air terjun ini memiliki keindahan pemandangan yang tidak bisa disiakan begitu saja. Airnya yang bersih akan membuat anda ingin sekali merasakan kesegaran airnya. Air terjun Tunan bisa dikatakan sebagai air terjun yang jarak tempuhnya dekat dengan pusat kota.",
     "Jarak Transportasi": "30.3 km"
   },
   {
+    "ID": "8",
     "Nama Tempat Wisata": "8. Gunung Klabat",
     "Alamat": "Lembean, Kec. Kauditan Kab. Minahasa Utara.",
     "Ulasan": "Gunung satu ini akan menawarkan pemandangan yang sungguh luar biasa. Memiliki ketinggian sekitar 2000 mdpl membuat banyak pendaki yang ingin menaklukkannya. Berada di puncak gunung Klabat anda akan berkesempatan untuk melihat danau yang kecil lengkao dengan air jernihnya. Jangan lupakan pemandangan dari kota Bitung yang begitu mempesona. Mendaki gunung Klabat akan membuat liburan anda di Minut terasa lengkap dan menyenangkan.",
     "Jarak Transportasi": "14.4 km"
   },
   {
+    "ID": "9",
     "Nama Tempat Wisata": "9. Kaki Dian",
     "Alamat": "Airmadidi Atas, Kec. Airmadidi, Kab. Minahasa Utara.",
     "Ulasan": "Kaki Dian adalah sebuah menara yuang memiliki 7 cabang lampu dengan ketinggian sekitar 19 meter. Jika anda ingin mengunjungi objek wisata satu ini, anda membutuhkan jarak tempuk sekitar 3 km dari pusat kota Airmadidi. Mengunjungi Kaki Dian anda akan disuguhkan dengan pemandangan yang begitu luar biasa. Kaki Dian juga sangat cocok untuk dijadikan sebagai spot anda berswafoto. Apalagi jika udaranya cerah, maka pemandangannya akan tambah cantik.",
     "Jarak Transportasi": "26.7 km"
   },
   {
+    "ID": "10",
     "Nama Tempat Wisata": "10. Pulau Gangga",
     "Alamat": "Gangga Satu, Kec. Likupang Barat, Kab. Minahasa Utara.",
     "Ulasan": "Pulau Gangga ini juga bisa dijadikan sebagai alternatif destinasi jika anda sedang berada di Minahasa Utara. Menjadi pulau yang tidak berpenghuni, anda akan disuguhkan dengan pemandangan yang mempesona. Pantai dengan pasir putih yang lembut akan semakin membuat anda terkesan. Belum dengan bawah lautnya yang tidak kalah cantik dengan Pulau Bunaken. Fasilitas di Pulau Gangga juga terbilang lengkap bahkan sudah ada resort untuk menginap.",
     "Jarak Transportasi": "27.23 km"
   }
 ]
+}
