@@ -1,5 +1,6 @@
-[
+{"Hotel":[
   {
+    "ID": "1",
     "Nama Hotel": "White Sands Beach Resort Lembeh Bitung",
     "Ulasan": "White Sands Beach Resort Lembeh memiliki restoran, kolam renang outdoor, bar, dan area pantai pribadi di Bitung. Kamar-kamar ini ber-AC, menampilkan pemandangan laut, serta memiliki lemari pakaian dan WiFi gratis.\\nSetiap kamar di resor ini dilengkapi dengan meja kerja, TV layar datar, dan kamar mandi pribadi. Setiap kamar di White Sands Beach Resort Lembeh memiliki area tempat duduk.\\nAkomodasi ini menawarkan sarapan prasmanan atau a la carte.\\nStaf resepsionis dapat berbahasa Inggris serta Indonesia, dan akan dengan senang hati memberikan panduan praktis mengenai daerah sekitar.\\nBandara terdekat adalah Bandara Sam Ratulangi, 58 km dari White Sands Beach Resort Lembeh.",
     "Alamat": "Pintukota, Pulau Lembeh, Kota Bitung, Sulawesi Utara 95515",
@@ -8,3 +9,4 @@
     "Jarak Transportasi": "30 menit"
   }
 ]
+}
