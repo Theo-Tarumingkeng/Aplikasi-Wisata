@@ -1,11 +1,11 @@
 {"Tempat Wisata":[
-  {
+   {
     "ID": "1",
     "Nama Tempat Wisata": "Gardenia Country",
     "Alamat": "Jl. Kawiley, Kakaskasen Dua, Tomohon Utara, Kota Tomohon, Sulawesi Utara.",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/GardeniaCountry.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "3.3 km"
+    "Jarak Transportasi": "Dari terminal tomohon 3.3 km"
   },
   {
     "ID": "2",
@@ -13,7 +13,7 @@
     "Alamat": "Jl. Woloan Kayawu, Woloan Dua, Tomohon Barat, Kota Tomohon, Sulawesi Utara.",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/ValentineHills.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "6.0 km"
+    "Jarak Transportasi": "Dari terminal tomohon 6.0 km"
   },
   {
     "ID": "3",
@@ -21,7 +21,7 @@
     "Alamat": "Tinoor Satu, Tomohon Utara, Kota Tomohon, Sulawesi Utara.",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/TheViewTinoor.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "10.6 km"
+    "Jarak Transportasi": "Dari terminal tomohon 10.6 km"
   },
   {
     "ID": "4",
@@ -29,7 +29,7 @@
     "Alamat": "Rurukan Satu, Kec. Tomohon Timur, Kota Tomohon, Sulawesi Utara.",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/PuncakTemboan.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "5.5 km"
+    "Jarak Transportasi": "Dari terminal tomohon 5.5 km"
   },
   {
     "ID": "5",
@@ -37,7 +37,7 @@
     "Alamat": "Kayawu, Tomohon Utara, Kota Tomohon, Sulawesi Utara.",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/GunungLokon.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "6.4 km"
+    "Jarak Transportasi": "Dari terminal tomohon 6.4 km"
   },
   {
     "ID": "6",
@@ -45,7 +45,7 @@
     "Alamat": "Jl. Rurukan, Paslaten Satu, Tomohon Timur, Kota Tomohon, Sulawesi Utara.",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/PasarExtremeTomohon.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "120 m"
+    "Jarak Transportasi": "Dari terminal tomohon 120 m"
   },
   {
     "ID": "7",
@@ -53,7 +53,7 @@
     "Alamat": "Jl. Sungen, Kakaskasen Dua, Tomohon Utara, Kota Tomohon, Sulawesi Utara.",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/PagodaEkayana.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "3.3 km"
+    "Jarak Transportasi": "Dari terminal tomohon 3.3 km"
   },
   {
     "ID": "8",
@@ -61,7 +61,7 @@
     "Alamat": "Woloan Dua, Tomohon Barat, Kota Tomohon, Sulawesi Utara.",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/PuncakKai'Santi.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "6.4 km"
+    "Jarak Transportasi": "Dari terminal tomohon 6.4 km"
   },
   {
     "ID": "9",
@@ -69,15 +69,15 @@
     "Alamat": "Woloan Satu Utara, Tomohon Barat, Kota Tomohon, Sulawesi Utara.",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/We'lu%20Cafe%20&%20Resto.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "5.2 km"
+    "Jarak Transportasi": "Dari terminal tomohon 5.2 km"
   },
   {
     "ID": "10",
     "Nama Tempat Wisata": "Danau Linow",
-    "Alamat": "Jalan Tomohon � Kawangkoan, Lahendong,Tomohon Selatan,Tomohon,Sulawesi Utara,Indonesia",
+    "Alamat": "Jalan Tomohon  Kawangkoan, Lahendong,Tomohon Selatan,Tomohon,Sulawesi Utara,Indonesia",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/DanauLinow.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "9.0 km"
+    "Jarak Transportasi": "Dari terminal tomohon 9.0 km"
   },
   {
     "ID": "11",
@@ -85,7 +85,7 @@
     "Alamat": "Kakaskasen Tiga, Kec. Tomohon Utara, Kota Tomohon, Sulawesi Utara",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/BukitDoaMahawu.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "4.8 km"
+    "Jarak Transportasi": "Dari terminal tomohon 4.8 km"
   },
   {
     "ID": "12",
@@ -93,7 +93,7 @@
     "Alamat": "Jln. RAYA TOMOHON DEPAN MENARA ALFA OMEGA CENTURY MART LT.1, Kamasi, Kec. Tomohon Tengah, Kota Tomohon, Sulawesi Utara 95441",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/AlfaOmegaTower.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "1.0 km"
+    "Jarak Transportasi": "Dari terminal tomohon 1.0 km"
   },
   {
     "ID": "13",
@@ -101,7 +101,7 @@
     "Alamat": "Pinaras, Tomohon Sel., Kota Tomohon, Sulawesi Utara",
     "Gambar URL": "https://aplikasiwisata3siscer.000webhostapp.com/GambarTempatWisata/AirTerjunTumimperas.JPG",
     "Ulasan": "Di tempat ini, mata Anda akan dimanjakan dengan keindahan berbagai macam bunga dan tanaman yang dirawat dengan baik. Anda akan puas berkeliling sembari menikmati hamparan bunga dan tanaman lainnya.\n\nSetelah puas berkeliling melihat-lihat, Anda dapat duduk santai di resto yang sudah disediakan. Sambil menyantap makanan, Anda akan disuguhkan pemandangan dari gunung Lakon beserta danaunya yang sangat cantik.",
-    "Jarak Transportasi": "10.6 km"
+    "Jarak Transportasi": "Dari terminal tomohon 10.6 km"
   }
 ]
 }
